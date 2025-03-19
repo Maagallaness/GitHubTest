@@ -13,7 +13,7 @@ This is a test repository for demonstrating Git and GitHub functionality. It ser
 Clone this repository to get started with your own GitHub test project.
 
 ```
-git clone https://github.com/yourusername/github-test.git
+git clone https://github.com/Maagallaness/GitHubTest.git
 ```
 
 ## License
